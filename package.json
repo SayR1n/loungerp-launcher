@@ -1,0 +1,16 @@
+{
+  "name": "lounge-rp-client",
+  "version": "1.0.0",
+  "description": "client for LoungeRp launcher",
+  "main": "main.js",
+  "author": "BlackGold",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://loungerp.ru/"
+  },
+  "homepage": "https://loungerp.ru/",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "electron-packager": "^15.4.0"
+  }
+}
