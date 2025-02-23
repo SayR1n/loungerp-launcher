@@ -9,6 +9,9 @@
     "url": "https://loungerp.ru/"
   },
   "homepage": "https://loungerp.ru/",
+  "scripts": {
+    "start": "electron ."
+  },
   "dependencies": {
     "adm-zip": "^0.5.9",
     "electron-packager": "^15.4.0"
